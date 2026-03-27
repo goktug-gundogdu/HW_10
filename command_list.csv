@@ -1,0 +1,16 @@
+  329  whoami
+  330  git branch develop
+  331  git ceheckout develop
+  332  git branch
+  333  git checkout develop
+  334  git branch
+  335  touch develop_test.txt
+  336  git add .
+  337  git commit -m "Değişiklikleri kaydet"
+  338  git status
+  339  git add .
+  340  git commit -m "Değişiklikler yapıldı"
+  341  git branch
+  342  git checkout main
+  343  git branch
+  344  git merge develop

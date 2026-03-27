@@ -14,3 +14,4 @@
   342  git checkout main
   343  git branch
   344  git merge develop
+git clone https://github.com/goktug-gundogdu/HW_10.git
